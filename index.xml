@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIGITA Workshop</title>
+    <link>https://digita-percom.github.io/</link>
+    <description>Recent content on DIGITA Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://digita-percom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the Digital Twins Ecosystems and Applications Workshop</title>
+      <link>https://digita-percom.github.io/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/</guid>
+      <description>DIGITA is an annual workshop series dedicated to exploring the latest research, trends, and applications in Digital Twins, hosted at the IEEE Pervasive Computing and Communications conference (PerCom). The workshop brings together researchers, practitioners, and industry experts to discuss innovative solutions, share experiences, and foster collaborations in the field of digital twin technologies and their ecosystems.
+Workshop Editions DIGITA 2026 The second edition of DIGITA will take place in Pisa, Italy, in 2026.</description>
+    </item>
+    
+  </channel>
+</rss>
