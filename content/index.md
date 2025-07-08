@@ -1,11 +1,18 @@
 ---
-title: "Welcome to the Digital Twins Ecosystems and Applications Workshop"
+title: DIGITA Workshop
 date: 2025-07-08T00:00:00Z
 draft: false
 ---
 
-DIGITA is an annual workshop series dedicated to exploring the latest research, trends, and applications in Digital Twins, hosted at the IEEE Pervasive Computing and Communications conference (PerCom). The workshop brings together researchers, practitioners, and industry experts to discuss innovative solutions, share experiences, and foster collaborations in the field of digital twin technologies and their ecosystems.
+<div align="center">
 
+# Digital Twin Ecosystems and Applications
+
+*A Workshop of the IEEE International Conference on Pervasive Computing and Communications*
+
+</div>
+
+DIGITA is an annual workshop series dedicated to exploring the latest research, trends, and applications in Digital Twins, hosted at the IEEE Pervasive Computing and Communications conference (PerCom). The workshop brings together researchers, practitioners, and industry experts to discuss innovative solutions, share experiences, and foster collaborations in the field of digital twin technologies and their ecosystems.
 
 
 <style>

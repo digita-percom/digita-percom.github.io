@@ -11,6 +11,6 @@ DIGITA originated from the [MADTECC](https://madtecc.github.io/) workshop, which
   [DIGITA25 Website](https://digita-percom.github.io/2025/)
 
 - **DIGITA 2026**  
-  The second edition of DIGITA will take place in Turin, Italy, in 2026, continuing the tradition of fostering innovation and collaboration in the digital twins community.  
+  The second edition of DIGITA will take place in Pisa, Italy, in 2026, continuing the tradition of fostering innovation and collaboration in the digital twins community.  
   [DIGITA26 Website](https://digita-percom.github.io/2026/) (coming soon)
 
