@@ -88,11 +88,19 @@ DIGITA is an annual workshop series dedicated to exploring the latest research, 
 
 ## Workshop Editions
 
+<div class="workshop-entry reverse" >
+  <img src="/img/goa.jpg" alt="DIGITA 2027" class="workshop-img"/>
+  <a href="https://digita-percom.github.io/2027/" target="_blank" class="workshop-text">
+    <strong>DIGITA 2027</strong><br/>
+    The third edition of DIGITA will take place in Goa, India, in 2027.
+  </a>
+</div>
+
 <div class="workshop-entry">
-  <img src="/img/pisa.jpg" alt="DIGITA 2026" class="workshop-img" r />
+  <img src="/img/pisa.jpg" alt="DIGITA 2026" class="workshop-img" />
   <a href="https://digita-percom.github.io/2026/" target="_blank" class="workshop-text">
     <strong>DIGITA 2026</strong><br/>
-    The second edition of DIGITA will take place in Pisa, Italy, in 2026.
+    The second edition of DIGITA was held in Pisa, Italy, in 2026.
   </a>
 </div>
 
